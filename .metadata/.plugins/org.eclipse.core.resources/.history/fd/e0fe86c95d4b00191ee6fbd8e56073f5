@@ -1,0 +1,3 @@
+WinWaitActive("Open")
+ControlSend("Open","","Edit1","IMG_2222.JPEG")
+ControlClick("Open","","Button1")

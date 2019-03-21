@@ -1,0 +1,3 @@
+WinWaitActive("Open")
+ControlSend("Open","","ComboBox1","image.JPEG")
+ControlClick("Open","","Button1")

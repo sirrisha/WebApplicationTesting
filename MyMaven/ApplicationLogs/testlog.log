@@ -1,0 +1,32 @@
+2019-03-20 02:57:28,275 - LoginTest -INFO - chrome browser opened successfully
+2019-03-20 02:57:29,702 - LoginTest -INFO - successfully naviagted to newtours
+2019-03-20 02:57:31,364 - LoginTest -INFO - enter username
+2019-03-20 02:57:31,438 - LoginTest -INFO - enter password
+2019-03-20 02:57:35,544 - LoginTest -INFO - perform click operaion
+2019-03-20 02:57:35,544 - LoginTest -INFO - the expected result is:Find
+2019-03-20 02:57:35,550 - LoginTest -INFO - the actual result is:Find a Flight: Mercury Tours:
+2019-03-20 02:57:35,551 - LoginTest -INFO - login successfull
+2019-03-20 02:58:09,585 - LoginTest -INFO - chrome browser opened successfully
+2019-03-20 02:58:10,950 - LoginTest -INFO - successfully naviagted to newtours
+2019-03-20 02:58:12,622 - LoginTest -INFO - enter username
+2019-03-20 02:58:12,731 - LoginTest -INFO - enter password
+2019-03-20 02:58:16,842 - LoginTest -INFO - perform click operaion
+2019-03-20 02:58:16,843 - LoginTest -INFO - the expected result is:Find
+2019-03-20 02:58:16,859 - LoginTest -INFO - the actual result is:Find a Flight: Mercury Tours:
+2019-03-20 02:58:16,860 - LoginTest -INFO - login successfull
+2019-03-20 03:04:05,519 - LoginTest -INFO - chrome browser opened successfully
+2019-03-20 03:04:07,156 - LoginTest -INFO - successfully naviagted to newtours
+2019-03-20 03:04:08,757 - LoginTest -INFO - enter username
+2019-03-20 03:04:08,869 - LoginTest -INFO - enter password
+2019-03-20 03:04:13,040 - LoginTest -INFO - perform click operaion
+2019-03-20 03:04:13,041 - LoginTest -INFO - the expected result is:Find
+2019-03-20 03:04:13,051 - LoginTest -INFO - the actual result is:Find a Flight: Mercury Tours:
+2019-03-20 03:04:13,052 - LoginTest -INFO - login successfull
+2019-03-20 03:19:03,534 - LoginTest -INFO - chrome browser opened successfully
+2019-03-20 03:19:07,507 - LoginTest -INFO - successfully naviagted to newtours
+2019-03-20 03:19:09,113 - LoginTest -INFO - enter username
+2019-03-20 03:19:09,219 - LoginTest -INFO - enter password
+2019-03-20 03:19:13,899 - LoginTest -INFO - perform click operaion
+2019-03-20 03:19:13,899 - LoginTest -INFO - the expected result is:Find
+2019-03-20 03:19:13,906 - LoginTest -INFO - the actual result is:Find a Flight: Mercury Tours:
+2019-03-20 03:19:13,906 - LoginTest -INFO - login successfull

@@ -1,0 +1,7 @@
+<suite name="NewTours Application Testing">
+  <test name="Login test">
+   <classes>
+     <class name="com.DataDriven.Newtour_login_annotation"/>
+    </classes>
+   </test>
+</suite>
